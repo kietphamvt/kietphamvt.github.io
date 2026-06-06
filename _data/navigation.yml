@@ -10,8 +10,8 @@ main:
     url: /teaching/    
     
         
-  - title: "Blog Posts"
-    url: /blog/
+  # - title: "Blog Posts"
+  #   url: /blog/
     
   - title: "CV"
     url: /files/KIET_RESUME.pdf
