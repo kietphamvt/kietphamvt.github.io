@@ -21,7 +21,7 @@ repository               : "kietphamvt/kietphamvt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_1290.jpg"
   name             : "Kiet Vo Tuan Pham"
   pronouns         : "he/him" 
   bio              : "SWE @ Google"
