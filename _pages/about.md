@@ -57,7 +57,7 @@ Feel free to contact me at [paulpham.kiet@gmail.com](mailto:paulpham.kiet@gmail.
       <div class="timeline-content">
         <h3>High School Diploma</h3>
         <p><strong>VNU-HCM High School for The Gifted</strong> · Ho Chi Minh City, Vietnam</p>
-        <p>Informatics Specialision Class of 2022</p>
+        <p>Informatics Specialision Class of 2022 (</p>
       </div>
     </div>
   </div>
